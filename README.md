@@ -1,4 +1,4 @@
-# Notesbox
+# Notesbox (Chrome extension)
 Chrome extension to take notes. Also functional in Mozilla Firefox.
 
 # How to install
