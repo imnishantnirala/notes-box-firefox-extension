@@ -5,4 +5,3 @@ Mozilla Firefox extension to take notes.
 Click On Link https://addons.mozilla.org/en-US/firefox/addon/notes-box/
 
 by nishant nirala
-
