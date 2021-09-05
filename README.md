@@ -1,7 +1,9 @@
-# Notesbox (Chrome extension)
-Mozilla Firefox extension to take notes.
+# Notesbox
+It is a Mozilla Firefox extension.
+Notes Box take and save short notes and reminders.
+
 # How to install
 
 Click On Link https://addons.mozilla.org/en-US/firefox/addon/notes-box/
 
-by nishant nirala
+nishant nirala
